@@ -1,0 +1,16 @@
+.navbar a{
+text-decoration: none;
+color: white;
+float: left;
+display: block;
+padding: 15px;
+}
+.navbar ul{
+overflow: hidden;
+list-style-type: none;
+margin-left: -1%;
+margin-right: -1%;
+}
+.navbar li{
+    float: left;
+}

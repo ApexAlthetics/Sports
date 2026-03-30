@@ -1,0 +1,8 @@
+div{
+    background-color: whitesmoke;
+    border: 2px dimgray solid;
+    width: 450px;
+    height: auto;
+    align-items: center;
+    box-shadow: 1px 1px 10px;
+}
